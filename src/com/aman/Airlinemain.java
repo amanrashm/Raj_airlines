@@ -14,7 +14,7 @@ public class Airlinemain {
         String Username = x.nextLine();
         System.out.println("Enter Password");
         int Password = x.nextInt();
-        if (( UserName == Username )&&( password == Password )){
+        if (( UserName.="Username" )&&( password.="Password" )){
            while (true){
                System.out.println("1 . UserRegistration \n 2. Ticket Booking \n 3. Cancel ticket");
                System.out.println("Enter Your Choice");
